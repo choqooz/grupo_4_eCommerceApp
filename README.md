@@ -17,7 +17,7 @@ Enfocados en amantes de la tecnología y entusiastas de la informática, ... sat
 1. Estrada, Ezequiel
 2. Fernandez, Sergio
 3. Martiarena, Marcelo
-4. Ordoñez, Gonzalo Ramos
+4. Ramos Ordoñez, Gonzalo
 
 ---
 
