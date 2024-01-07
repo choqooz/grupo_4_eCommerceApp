@@ -12,7 +12,9 @@
 }
 footer {
     display: flex;
-    position: relative;
+    position: absolute;
+    left: 0;
+    bottom: 0;
     flex-direction: column;
 }
 
