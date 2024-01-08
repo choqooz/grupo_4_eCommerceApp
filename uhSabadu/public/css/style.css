@@ -6,6 +6,12 @@
     Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
 
+body {
+  background-image: url("/images/fondo1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .header {
   margin: 2% 2%;
   display: flex;
@@ -14,7 +20,8 @@
 }
 
 .search-bar input {
-  padding: 5px 40px;
+  padding: 5px 60px;
+  border: 1px solid black;
   border-radius: 5px;
 }
 
@@ -33,12 +40,17 @@
   }
 }
 
-#sticky_back {
-  z-index: -10;
-  position: absolute;
-  left: 0;
-  bottom: 0;
+.burguer-menu {
+  display: flex;
+  margin-left: 2%;
+  & i {
+    font-size: 26px;
+  }
+  & strong {
+    margin-left: 15px;
+  }
 }
+
 footer {
   display: flex;
   position: relative;
