@@ -36,14 +36,14 @@
 #sticky_back {
   z-index: -10;
   position: absolute;
-  left: 0;
-  bottom: 0;
+  left: 0px;
+  bottom: 0px;
 }
 footer {
   display: flex;
   position: relative;
-  left: 0;
-  bottom: 0;
+  left: 0px;
+  bottom: 0px;
   flex-direction: column;
 }
 
