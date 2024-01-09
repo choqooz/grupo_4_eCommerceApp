@@ -22,12 +22,17 @@ Enfocados en amantes de la tecnología y entusiastas de la informática, ... sat
 ---
 
 **Paginas referentes:**
+
 - [DonWeb](https://donweb.com/)
 - [Venex](https://www.venex.com.ar/)
 - [CompraGamer](https://compragamer.com/)
 - [Solution Box](https://www.solutionbox.com.ar/)
 - [Maximus](https://www.maximus.com.ar/)
 
-*¿Porque se eligieron estas paginas como referentes?*
+_¿Porque se eligieron estas paginas como referentes?_
 
 Las páginas citadas anteriormente, fueron elegidas por su simpleza y facil interacción con el usuario, como las páginas de [DonWeb](https://donweb.com/), [CompraGamer](https://compragamer.com/), [Maximus](https://www.maximus.com.ar/). Las paginas web de [Venex](https://www.venex.com.ar/), [Solution Box](https://www.solutionbox.com.ar/) fueron elegidas por su presentación innovadora y diferente a las demas ya mencionadas.
+
+_Links:_
+
+- [Trello](https://trello.com/b/2QZ4jkJn/sprint-2-grupo-4)
