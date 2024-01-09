@@ -67,3 +67,7 @@ footer section {
   margin: 15px;
   text-align: center;
 }
+
+footer ul {
+  list-style-type: none;
+}
