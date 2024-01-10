@@ -36,7 +36,7 @@ main {
 }
 .ofertas img {
   height: auto;
-  width: 100%; 
+  width: 100%;
   object-fit: cover;
   transition: transform 0.5s ease;
 }
@@ -92,4 +92,21 @@ footer section {
   align-items: center;
   margin: 15px;
   text-align: center;
+}
+
+.slider {
+  aspect-ratio: 16 / 9;
+  width: 65vw;
+  position: relative;
+  display: flex;
+  overflow: scroll;
+  scroll-snap-type: x mandatory;
+}
+.slider img {
+  width: 100%;
+  left: 0;
+  position: sticky;
+  object-fit: cover;
+  border-radius: 5px;
+  scroll-snap-align: center;
 }
