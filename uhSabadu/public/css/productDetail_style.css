@@ -6,6 +6,12 @@
         Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
 
+body {
+    background-image: url("/images/fondo1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
 .header {
     margin: 2% 2%;
     display: flex;
@@ -39,8 +45,10 @@
 main {
     display: flex;
     position: relative;
+    flex-wrap: wrap;
     left: 0px;
     top: 20px;
+    width: 750px;
     flex-direction: row;
 }
 
@@ -64,11 +72,14 @@ main {
     width: 50px;
 }
 
-#sticky_back {
-    z-index: -10;
-    position: absolute;
-    left: 0px;
-    bottom: 0px;
+main ul {
+    list-style-type: none;
+  }
+  
+
+.features1 {
+    display: flex;
+    flex-wrap: wrap;
 }
 
 footer {
