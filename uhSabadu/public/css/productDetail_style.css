@@ -57,19 +57,26 @@ main {
     order: 2;
     left: 90px;
     top: 0px;
+    height: 50px;
+    width: 50px;
 }
 
-.main_imagen_lateral {
-    flex-grow: initial;
+.main_img_lateral {
     position: absolute;
     order: 1;
     flex-direction: column;
-    
+    height: 250px;
+    width: 50px;
 }
 
-.imagen_lateral {
+#img_principal {
+    height: 230px;
+    width: 310px;
+}
+
+.img_lateral {
     height: 50px;
-    width: 50px;
+    width: 80px;
 }
 
 main ul {
