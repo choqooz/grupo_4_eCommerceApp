@@ -90,7 +90,7 @@ main ul {
     flex-direction: column;
     left: -80px;
     top: 240px;
-    
+
 }
 
 .features1 {
@@ -109,9 +109,13 @@ main ul {
 footer {
     display: flex;
     position: relative;
-    left: 0px;
+    left: -10px;
     bottom: 0px;
     flex-direction: column;
+
+    & ul {
+        list-style-type: none;
+    }
 }
 
 footer section {
@@ -119,8 +123,6 @@ footer section {
     align-items: center;
     margin: 15px;
     text-align: center;
-}
 
-footer ul {
-    list-style-type: none;
+
 }
